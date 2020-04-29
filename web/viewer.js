@@ -4354,7 +4354,7 @@ var defaultOptions = {
     kind: OptionKind.VIEWER
   },
   defaultZoomValue: {
-    value: '',
+    value: 'page-fit',
     kind: OptionKind.VIEWER
   },
   disableHistory: {
